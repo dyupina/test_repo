@@ -18,3 +18,5 @@ int main(int argc, char const *argv[])
 }
 
 new_func();
+
+main_func(); вот новая функция - создала в main
