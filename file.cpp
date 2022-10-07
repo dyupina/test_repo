@@ -1,4 +1,5 @@
 #include <haha.h>
+//new
 int function()
 {
 	
