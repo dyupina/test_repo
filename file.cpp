@@ -1,15 +1,15 @@
 #include <haha.h>
 
-int function()
+int_ function()
 {
 	return 0;
 }
-int super(int argc, char const *argv[])
+int_ super(int_ argc, char const *argv[])
 {
 	/* code */
 	return 0;
 }
-int main(int argc, char const *argv[])
+int_ main(int_ argc, char const *argv[])
 {
 	function();
 
